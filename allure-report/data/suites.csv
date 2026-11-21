@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This test verifies that a user can log in with valid credentials.","1242","Valid log-in test","Default Suite","2026-11-21","passed","2026-11-21","LoginTest","POM","LoginTest","testLoginValid"
+"","1175","testLoginInvalid","Default Suite","2026-11-21","failed","2026-11-21","LoginTest","POM","LoginTest","testLoginInvalid"

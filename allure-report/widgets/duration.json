@@ -1,0 +1,1 @@
+[{"uid":"74d7d91d4af32e11","name":"Valid log-in test","time":{"start":1795254766363,"stop":1795254767605,"duration":1242},"status":"passed","severity":"critical"},{"uid":"8eb4bc12a24d8c7f","name":"testLoginInvalid","time":{"start":1795254761928,"stop":1795254763103,"duration":1175},"status":"failed","severity":"normal"}]
